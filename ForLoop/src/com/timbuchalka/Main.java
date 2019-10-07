@@ -34,7 +34,7 @@ public class Main {
     }
 
 
-    public static boolean inPrime(int n){
+    private static boolean inPrime(int n){
         if(n == 1) {
             return false;
         }
@@ -49,7 +49,7 @@ public class Main {
 
     }
 
-    public static double calculateInterest(double amount, double interestRate) {
+    private static double calculateInterest(double amount, double interestRate) {
         return (amount * interestRate/100);
     }
 }

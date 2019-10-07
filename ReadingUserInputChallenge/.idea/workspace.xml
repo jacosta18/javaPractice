@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03c13be9-bb0a-4007-838f-c754adb728ec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b6f1d9fd-95c0-4286-9659-c2fd23425ffd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1ReBIsRBvKZdiXPt9vesCjx9CGR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
+  <component name="ProjectId" id="1RsYvEKIxT6LInmsdXcWbOz8xXW" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -30,7 +24,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.timbuchalka.Main" />
-      <module name="DayOfTheWeekChallenge" />
+      <module name="ReadingUserInputChallenge" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -49,11 +43,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="03c13be9-bb0a-4007-838f-c754adb728ec" name="Default Changelist" comment="" />
-      <created>1570017604803</created>
+      <changelist id="b6f1d9fd-95c0-4286-9659-c2fd23425ffd" name="Default Changelist" comment="" />
+      <created>1570457498608</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570017604803</updated>
+      <updated>1570457498608</updated>
     </task>
     <servers />
   </component>
